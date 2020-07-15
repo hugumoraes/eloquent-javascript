@@ -40,19 +40,19 @@ Write a program that creates a string that represents an 8×8 grid, using newlin
 
 Passing this string to console.log should show something like this:
 
- \# # # #
+\ \# # # #
 
 \# # # #
 
- \# # # #
+\ \# # # #
 
 \# # # # 
 
- \# # # #
+\ \# # # #
 
 \# # # # 
 
- \# # # #
+\ \# # # #
 
 \# # # #
 
